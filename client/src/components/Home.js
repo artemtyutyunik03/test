@@ -1,8 +1,8 @@
 import React from 'react';
 
-function Home(props) {
+function Home() {
     return (
-        <div>Home</div>
+        <div>Home and something else</div>
     );
 }
 
